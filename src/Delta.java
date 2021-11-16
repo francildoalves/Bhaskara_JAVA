@@ -12,8 +12,6 @@
 
 public class Delta(){
     
-<<<<<<< HEAD
-=======
     
     /** 
      * Subject line
@@ -35,7 +33,6 @@ public class Delta(){
      * @author me
      */
 
->>>>>>> 1d95bfea03a92a6f08990afadcfc97290fef6284
     public static double calculaDeltaDouble (double a,  double b, double c){
         double delta = Math.pow(b, 2) - (4*a*c);
         return delta;
