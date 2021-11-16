@@ -10,8 +10,7 @@
  */
      
 
-public class Delta(){
-    
+public class Delta(){    
     
     /** 
      * Subject line
